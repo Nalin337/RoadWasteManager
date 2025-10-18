@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "location": "Main St & 2nd Ave",
+    "type": "Overflowing Bin",
+    "description": "Public bin near bus stop is full and spilling over.",
+    "status": "Pending",
+    "reported_at": "2025-10-18T10:00:00.000000"
+  },
+  {
+    "id": 2,
+    "location": "Elm Park, Sector 5",
+    "type": "Illegal Dumping",
+    "description": "Construction debris and old furniture left on the sidewalk.",
+    "status": "Pending",
+    "reported_at": "2025-10-18T11:30:00.000000"
+  }
+]
